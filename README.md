@@ -21,6 +21,7 @@ The project builds a **single source of truth for customers**, applies industry-
 - **Visualization:** Power BI  
 
 ---
+Raw data from kaggle ; https://www.kaggle.com/datasets/thedevastator/retail-customer-segmentation-analysis-using-cust
 
 ## 🗂 Data Model
 The project follows a **Star Schema** design for analytics efficiency.
