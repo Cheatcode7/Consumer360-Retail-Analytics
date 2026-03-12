@@ -112,14 +112,6 @@ A **Single Customer View (SCV)** is created to consolidate all customer-level me
 
 ---
 
-## 🚀 Future Enhancements
-- Predictive churn modeling
-- Customer Lifetime Value (CLV) forecasting
-- Automation using scheduled ETL pipelines
-- Integration with real-time data sources
-
----
-
 ## 👤 Author
 **Ashish Patel**  
 B.Tech IT | Data Analytics Enthusiast  
