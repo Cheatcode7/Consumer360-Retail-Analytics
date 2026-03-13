@@ -41,24 +41,20 @@ A **Single Customer View (SCV)** is created to consolidate all customer-level me
 ## 📅 Project Breakdown
 
 ### 🔹 Week 1 – Data Engineering
-**Focus:** Reliable analytics foundation
+**Focus:** Data Engineering & Schema 
 
 - Designed **Star Schema**
 - Built **Fact & Dimension tables**
 - Created **Single Customer View**
-- Implemented **Cohort Analysis**
-  - Cohort Month
-  - Month Index
-  - Active Customers by Month
+- Handle null and negative values 
 
 📦 Deliverables:
-- Cleaned relational data model
-- Cohort table for retention analysis
+- Cleaned relational data for RFM segmentation 
 
 ---
 
 ### 🔹 Week 2 – Analytics Core
-**Focus:** Customer intelligence & behavior analysis
+**Focus:** Customer segmentation  & behavior analysis
 
 - **RFM Segmentation**
   - Recency
@@ -87,7 +83,6 @@ A **Single Customer View (SCV)** is created to consolidate all customer-level me
 - Customer segments & churn customers 
 - Sales & country Analysis
 - Market Basket Insights
-- Cohort Retention Visualization
 
 📦 Deliverables:
 - Interactive **Power BI Dashboard**
